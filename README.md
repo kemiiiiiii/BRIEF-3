@@ -10,6 +10,10 @@
   
   **Screened**: Number of individuals screened.
 
+  **Coverage (%)**: Number of individuals screened ÷ number of individuals eligible * 100
+
+  
+
 (Document explaining what each column means: 'Cervical Screening Coverage Dashboard CSV Guidance_202425_Q1.docx'
 
 ------------------
