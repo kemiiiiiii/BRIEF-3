@@ -1,6 +1,6 @@
 ## FILE 1: phof_analysis.ipynb
 
-### Breaks down the 2021-2024 results of the NHS Cervical Screening program by Region, Age, Eligible and Screened.
+### Breaks down the 2021-2024 results of the NHS Cervical Screening program by Region, Age, Eligible, Screened and Coverage (%).
 
   **Region**: Place where the screenings took place
   
