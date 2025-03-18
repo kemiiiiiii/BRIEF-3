@@ -2,7 +2,7 @@
 
 ### Breaks down the 2021-2024 results of the NHS Cervical Screening program by Region, Age, Eligible, Screened and Coverage (%).
 
-  **Region**: Place where the screenings took place
+  **Region**: Place where the screenings took place.
   
   **Age**: Age band of women screened (either 25-49 or 50-64). 
   
@@ -10,11 +10,11 @@
   
   **Screened**: Number of individuals screened.
 
-  **Coverage (%)**: Number of individuals screened ÷ number of individuals eligible * 100
+  **Coverage (%)**: Number of individuals screened ÷ number of individuals eligible * 100.
 
   
 
-(Document explaining what each column means: 'Cervical Screening Coverage Dashboard CSV Guidance_202425_Q1.docx'
+(Document explaining what each column means: 'Cervical Screening Coverage Dashboard CSV Guidance_202425_Q1.docx')
 
 ------------------
 
